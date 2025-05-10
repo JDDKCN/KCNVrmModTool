@@ -18,7 +18,8 @@
 2. 安装 **[MCP2221a 驱动 (点击下载)](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/SoftwareLibraries/Firmware/MCP2221_Windows_Driver_2021-02-22.zip)** 及 **[本程序 (点击前往最新 Releases 处)](https://github.com/JDDKCN/KCNVrmModTool/releases)** 。
 
 3. 将服务器断电。找到位于 **主板靠风扇侧** 的丝印标识为 **2C0_PWR** 的 **VRM控制器 3针刷写公头**：
-   - 以主板上印有**小箭头**的针脚定义为**第一针脚**
+   - 以主板上印有**小箭头**的对应针脚定义为**主板第一针脚**
+   - 以开发板母座**左侧**开始的针脚定义为**开发板第一针脚**
    - 依次插上 **`黑` `红` `绿`** 的杜邦线
    - 若线材与图片不一致，请按以下对应关系连接：
      - `开发板母座第一针脚` → `主板第三针脚`
