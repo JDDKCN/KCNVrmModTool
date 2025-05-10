@@ -41,7 +41,6 @@
    KCNVrmModTool -PXE1610C 28 38 :: 英特尔 S2600WF
    KCNVrmModTool -PXE1610C 30 38 :: 英特尔 S2600BP
    KCNVrmModTool -PXE1610C 60 62 :: 戴尔 7820/7920 工作站
-   KCNVrmModTool -PXE1610C 40 42 :: 浪潮 SA5112M5/SA5212M5
    ```
    即刷写完毕。
 
